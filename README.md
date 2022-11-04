@@ -5,7 +5,11 @@
  
 `python manage.py createsuperuser`
 
-## Web views
+## Base route
+
+> 127.0.0.1:8000/ returns {"status": "ok"}
+
+## Web routes
 
 > GET /cats/
 
